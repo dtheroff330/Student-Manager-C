@@ -1,7 +1,7 @@
-# C867 Scripting and Programming - Applications
+# Basic Student Manaager - C++
 
 
-This project is the PA for WGU's C867 course and is intended to demonstrate knowledge learned from the coursework, and skill in general usage of c++.
+This project is intended to demonstrate knowledge learned from C++ coursework, and skill in general usage of c++.
 
 
 ## Features of this program:
